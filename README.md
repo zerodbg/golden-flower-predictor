@@ -66,7 +66,7 @@ pip install kivy
 Run it ⚡  
 
 ```bash
-python predictor.py
+python main.py
 ```
 
 ---
