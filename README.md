@@ -98,3 +98,4 @@ python main.py
 ### Made with 💚 Python + Kivy  
 ### Powered by ⚡ Adaptive AI  
 ### Styled for 😎 Cool Hackers 
+### All credit to Waleed Khan
